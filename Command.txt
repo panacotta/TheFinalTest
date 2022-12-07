@@ -1,0 +1,12 @@
+git init
+git add MyFile.txt
+
+cd Info
+git add .
+
+git config user.name "Phuong Nguyen_INFO"
+
+git add .
+
+git status
+I learned that the files Command.txt and MyFile.txt have been editted and the changes have not been added to source control
